@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#FF8C00"
+backgroundColor = "#03050A"
+secondaryBackgroundColor = "#0A0F1D"
+textColor = "#E5E7EB"
+font = "sans serif"
+borderColor = "#4F46E5"
+redColor = "#FF8C00"
+redBackgroundColor = "#3A2108"
+orangeColor = "#FFB454"
+orangeBackgroundColor = "#3A260B"
+violetColor = "#8B5CF6"
